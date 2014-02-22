@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="commons-cli-1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/commons-cli-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2-api-2.0-rc1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-api-2.0-rc1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-core-2.0-rc1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mockito-all-1.9.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rabbitmq-client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/mockito-all-1.9.5.jar!/" />
+    </SOURCES>
+  </library>
+</component>
